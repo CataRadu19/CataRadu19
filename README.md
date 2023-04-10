@@ -5,7 +5,7 @@ I am a Front End developer.
 --------------------------
 
 *   🌍  I'm based in Tg. Mures, Romania
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://radu-catalin.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
